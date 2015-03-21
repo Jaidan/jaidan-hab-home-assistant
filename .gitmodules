@@ -1,0 +1,18 @@
+[submodule "homeassistant/external/pynetgear"]
+	path = homeassistant/external/pynetgear
+	url = https://github.com/balloob/pynetgear.git
+[submodule "homeassistant/external/pywem"]
+	path = homeassistant/external/pywem
+	url = https://github.com/balloob/pywemo.git
+[submodule "homeassistant/external/netdisco"]
+	path = homeassistant/external/netdisco
+	url = https://github.com/balloob/netdisco.git
+[submodule "homeassistant/external/noop"]
+	path = homeassistant/external/noop
+	url = https://github.com/balloob/noop.git
+[submodule "homeassistant/external/vera"]
+	path = homeassistant/external/vera
+	url = https://github.com/jamespcole/home-assistant-vera-api.git
+[submodule "homeassistant/components/frontend/www_static/polymer/home-assistant-js"]
+	path = homeassistant/components/frontend/www_static/polymer/home-assistant-js
+	url = https://github.com/balloob/home-assistant-js.git
